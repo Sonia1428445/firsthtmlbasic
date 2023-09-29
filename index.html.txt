@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Web Application</title>
+    <!-- Add your CSS stylesheets or links to external CSS here -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Web Application</h1>
+        <!-- Add navigation menu or header content here -->
+    </header>
+    
+    <main>
+        <!-- Your main content goes here -->
+        <h2>Sample Content</h2>
+        <p>This is a sample HTML page for your web application.</p>
+    </main>
+    
+    <footer>
+        <!-- Footer content or links can go here -->
+        <p>&copy; 2023 Your Company Name</p>
+    </footer>
+    
+    <!-- Add your JavaScript scripts or links to external JS here -->
+</body>
+</html>
